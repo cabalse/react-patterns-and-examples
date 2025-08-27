@@ -29,7 +29,7 @@ function App() {
       </Modal>
       <div className="w-full h-screen flex items-center justify-center bg-gray-300">
         <div className="flex flex-col items-center">
-          <h1 className="text-4xl font-bold">React Patterns Example</h1>
+          <h1 className="text-4xl font-bold">React Patterns and Examples</h1>
           <div className="mt-4 gap-4">
             <div className="m-2" onClick={() => setModalVisible(true)}>
               Click me button to open a modal.
